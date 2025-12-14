@@ -1,0 +1,17 @@
+{
+    "name": "mindcare-landing",
+    "version": "1.0.0",
+    "description": "Landing page for MindCare Mental Health App",
+    "scripts": {
+        "start": "npx serve .",
+        "build": "echo 'Static site - no build needed'"
+    },
+    "keywords": [
+        "mental health",
+        "therapy",
+        "telehealth"
+    ],
+    "author": "Divine Group Ltd",
+    "license": "UNLICENSED",
+    "private": true
+}
